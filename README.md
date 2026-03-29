@@ -1,7 +1,7 @@
 <!-- ===================== SYSTEM HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:001f3f&height=200&section=header&text=VARUN%20AI%20SYSTEM&fontSize=42&fontColor=00ffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:001f3f&height=200&section=header&text=VARUNTHEJ%20AI%20SYSTEM&fontSize=42&fontColor=00ffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 # 🧠 SYSTEM CORE
 
 ```yaml
-Name: Varun
+Name: Varun Thej
 Role: AI Systems Engineer
 Title: Founder @ Custos
 Focus:
