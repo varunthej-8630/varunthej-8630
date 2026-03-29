@@ -1,178 +1,171 @@
-<!-- ===================== SYSTEM BOOT ===================== -->
+<!-- ===================== AI SYSTEM BOOT ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=VARUN%20AI%20SYSTEM&fontSize=40&fontColor=00ffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:001f3f&height=200&section=header&text=VARUN%20AI%20CORE&fontSize=40&fontColor=00ffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+AI+System...;Initializing+Modules...;Computer+Vision+Loaded;IoT+Systems+Online;Custos+Core+Activated;Welcome+Commander" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+JARVIS+Protocol...;Loading+Computer+Vision+Systems...;IoT+Network+Connected;Custos+Core+Online;Welcome+Commander+Varun" />
 </p>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+# 🧠 AI ASSISTANT TERMINAL
+
+```bash
+> Booting Assistant...
+> Hello Varun 👋
+> All systems are operational ⚡
+
+> Available Commands:
+> /skills
+> /projects
+> /custos
+> /contact
+```
+
+---
+
+# ⚙️ HUD CONTROL PANEL
+
+<details>
+<summary>🧠 SYSTEM PROFILE [CLICK TO EXPAND]</summary>
 
 ```yaml
-Name: Varun thej 
+Name: Varun
 Role: AI Systems Engineer / Founder
-Organization: Custos (Smart Surveillance Ecosystem)
+System: Custos Surveillance Ecosystem
 Specialization:
-  - Computer Vision
+  - AI + Computer Vision
   - Embedded Systems
   - IoT Architecture
-  - AI Automation
-Status: ACTIVE ⚡
-Mission: Build Intelligent Security Systems
+  - Real-Time Intelligence Systems
+Status: ONLINE ⚡
 ```
 
-⚙️ CORE MODULES
-
-💻 Programming Engine
-
-```bash
-Python   ████████████████████ 100%
-C/C++    ████████████████░░░░ 85%
-JS/TS    ███████████████░░░░░ 80%
-```
-
-🤖 AI / VISION SYSTEMS
-
-```bash
-OpenCV        ████████████████████
-YOLO          █████████████████░░
-MediaPipe     ████████████████░░░
-TensorFlow    ██████████████░░░░░
-```
-
-⚙️ EMBEDDED + IOT NETWORK
-
-```bash
-ESP8266       ████████████████████
-Arduino       ███████████████████░
-Raspberry Pi  ███████████████░░░░
-GSM Systems   ███████████████░░░░
-```
-
-🌐 INTERFACE SYSTEMS
-
-```bash
-React         ████████████████░░░
-Tailwind      ███████████████████
-Firebase      ███████████████░░░░
-Node          █████████████░░░░░░
-```
+</details>
 
 ---
 
-🧬 SYSTEM PHILOSOPHY
+<details>
+<summary>⚙️ TECH MATRIX [CLICK TO EXPAND]</summary>
 
-```diff
-+ Build Real Systems
-+ Think Beyond Code
-+ Hardware + AI = Future
-+ Consistency > Motivation
-```
+### 💻 Programming Core
+
+![Python](https://img.shields.io/badge/Python-00ffff?style=for-the-badge\&logo=python)
+![C++](https://img.shields.io/badge/C++-00ffff?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JS-00ffff?style=for-the-badge\&logo=javascript)
+
+### 🤖 AI SYSTEMS
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Tracking-blue?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Detection-red?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Gestures-green?style=for-the-badge)
+
+### ⚙️ EMBEDDED NETWORK
+
+![ESP8266](https://img.shields.io/badge/ESP8266-IoT-blue?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded-green?style=for-the-badge)
+![GSM](https://img.shields.io/badge/GSM-Communication-yellow?style=for-the-badge)
+
+</details>
 
 ---
 
-🌐 COMMUNICATION CHANNELS
+# 🎮 INTERACTIVE SYSTEM MODULES
 
-```yaml
-Email:    p.varunthej@gmail.com
-LinkedIn: linkedin.com/in/varun-thej-32446372
-WhatsApp: wa.me/919392881913
-```
+<details>
+<summary>🚀 CORE PROJECTS [ACTIVATE]</summary>
 
----
-
-📊 SYSTEM ANALYTICS
+### 🔐 Smart Surveillance System
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunthej-8630&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunthej-8630&theme=tokyonight&hide_border=true" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
 </p>
+
+> AI-powered modular surveillance ecosystem
+
+---
+
+### 🖐️ AirMouse
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varunthej-8630/varunthej-8630/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500"/>
 </p>
 
----
-
-🚀 DEPLOYED SYSTEMS
-
-🔐 CORE SECURITY MODULES
-
-```bash
-[ACTIVE] Smart Surveillance System
-→ Modular AI-powered surveillance network
-
-[ACTIVE] AirMouse
-→ Gesture-based OS control system
-
-[ACTIVE] Smart Wheelchair
-→ Voice-controlled mobility platform
-
-[ACTIVE] Shadow Jutsu
-→ Real-time clone simulation (CV)
-
-[ACTIVE] Smart Helmet
-→ Safety + IoT integration
-
-[ACTIVE] FingerBeam
-→ Gesture interaction engine
-```
+> Gesture-based computer control system
 
 ---
 
-🧠 CUSTOS ECOSYSTEM (FOUNDER MODE)
+### 🌀 Shadow Jutsu
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="500"/>
+</p>
+
+> Real-time computer vision clone simulation
+
+</details>
+
+---
+
+<details>
+<summary>🧠 CUSTOS ECOSYSTEM [FOUNDER MODE]</summary>
 
 ```bash
+> Initializing Custos Core...
+
 Custos AD              → AI Detection Engine
 Custos Core            → Central Intelligence Unit
-Digital Perimeter P1   → Entry-level detection
-Digital Perimeter P2   → Smart tracking system
-Digital Perimeter P3   → Advanced AI perimeter
-Custos Hub             → Control interface
-Custos Eldercare       → Smart monitoring system
+Digital Perimeter P1   → Entry-Level Detection
+Digital Perimeter P2   → Smart Tracking
+Digital Perimeter P3   → Advanced AI Defense
+Custos Hub             → Control Interface
+Custos Eldercare       → Smart Monitoring
 ```
+
+</details>
 
 ---
 
-🌍 PLATFORM SYSTEMS
+# 📊 SYSTEM ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunthej-8630&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunthej-8630&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/varunthej-8630/varunthej-8630/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 CONTACT PROTOCOL
 
 ```bash
-Freelancing Platform → Service ecosystem
-Portfolio System     → Personal brand interface
-EcoTelecare          → Smart health monitoring
-My-Trainer           → AI training assistant
+> Opening communication channels...
+
+Email     → p.varunthej@gmail.com
+LinkedIn  → linkedin.com/in/varun-thej-32446372
+WhatsApp  → wa.me/919392881913
 ```
 
 ---
 
-🧠 LIVE STATUS
+# 🧬 FINAL AI MESSAGE
 
 ```diff
-+ AI Modules        → ONLINE
-+ Vision Systems   → TRACKING
-+ IoT Network      → CONNECTED
-+ Security Engine  → ACTIVE
-```
++ You are not looking at a developer.
++ You are looking at a SYSTEM ARCHITECT.
 
----
-
-🧬 FINAL MESSAGE
-
-```bash
-> I don't build projects.
-> I build systems that think, react, and evolve.
-
-> Initializing Future...
++ STATUS: BUILDING THE FUTURE ⚡
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f3f&height=120&section=footer"/>
 </p>
 
-<!-- ===================== END SYSTEM ===================== -->
+<!-- ===================== END ===================== -->
