@@ -1,24 +1,147 @@
-# 💫 About Me:
-👋 Hey Everyone, I'm Varun<br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Universe+🚀;CUSTOS+%7C+Founder+a+smart+security+survillance+HUB;IoT+%7C+Developer;AI+%7C+ML+%7C+Computer+Vision+Developer;Building+Smart+Systems+for+Real+World" /><br></p><br> <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,firebase,git,github,vscode" /><br></p><br><br><p align="center"><br>  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" /><br></p><br><br>📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=varunthej-8630&show_icons=true&theme=tokyonight" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunthej-8630&theme=tokyonight" /><br></p><br><br>🌐 Connect With Me<br><br>📧 [p.varunthej@gmail.com](mailto:p.varunthej@gmail.com)<br>💼 [www.linkedin.com/in/varun-thej-32446372](http://www.linkedin.com/in/varun-thej-32446372)<br>📱 https://wa.me/919392881913<br><br>⚡ Mindset<br><br>🚀 Build → Learn → Improve → Repeat<br>🔥 Consistency beats everything<br><br>🚀 My Projects (Click to View)<br><br><br>🔐 Core Systems<br><br>🔗 [Smart Surveillance System](https://github.com/varunthej-8630/Smart-Surveillance-System) → AI-based security system<br><br>🔗 [AirMouse](https://github.com/varunthej-8630/AirMouse) → Hand gesture computer control<br><br>🔗 [Voice Controlled Smart Wheelchair](https://github.com/varunthej-8630/Voice-Controlled-Smart-Wheelchair-) → Voice-based mobility<br><br>🔗 [Shadow Jutsu](https://github.com/varunthej-8630/shadow-jutsu) → Gesture-based clone system<br><br>🔗 [Smart Helmet](https://github.com/varunthej-8630/smarthelmet) → IoT safety monitoring<br><br>🔗 [FingerBeam](https://github.com/varunthej-8630/FingerBeam) → Gesture interaction system<br><br>🧠 Custos AI Ecosystem<br><br>🔗 [Custos AD](https://github.com/varunthej-8630/custos-AD) → Anomaly detection system<br><br>🔗 [Custos Core](https://github.com/varunthej-8630/custos) → Base architecture<br><br>🔗 [Custos Digital Perimeter P1](https://github.com/varunthej-8630/custos-digital-perimeter--p1)<br><br>🔗 [Custos Digital Perimeter P2](https://github.com/varunthej-8630/custos-digital-perimeter--p2)<br><br>🔗 [Custos Digital Perimeter P3](https://github.com/varunthej-8630/custos-digital-perimeter--p3)<br><br>🔗 [Custos Hub Website](https://github.com/varunthej-8630/Custos-Hub-website)<br><br>🔗 [Custos Eldercare](https://github.com/varunthej-8630/custos-eldercare-landingpage)<br><br>🔗 [Custos Landing Page](https://github.com/varunthej-8630/custos-landing_page-p1)<br><br> 🌐 Web & Platforms<br><br>🔗 [Freelancing Website](https://github.com/varunthej-8630/freelancing-website)<br><br>🔗 [Varun Portfolio](https://github.com/varunthej-8630/varun-port)<br><br>🔗 [EcoTelecare](https://github.com/varunthej-8630/ecotelecare)<br><br>🔗 [My-Trainer](https://github.com/varunthej-8630/My-trainer)<br><br><br>⭐ Thanks for visiting my profile!<br>
+<!-- 🔥 3D BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Varun%20Thej%20Parimi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 👋 INTRO -->
+
+<h1 align="center">👋 Hi, I'm Varun</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Computer+Vision+Developer;Building+Startup-Level+AI+Systems;IoT+%2B+AI+Innovator+🚀" />
+</p>
+
+<p align="center">
+  🚀 AI | ML | Computer Vision | IoT  
+  <br>
+  💡 Building real-world smart systems & future tech  
+</p>
+
+<!-- 🧠 ABOUT -->
+
+🧠 About Me
+
+🚀 Passionate about AI & intelligent automation
+🤖 Focused on Computer Vision, YOLO & Edge AI
+⚡ Building real-world impactful projects
+🎯 Goal → Create scalable AI products & startups
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_varun_thej_?igsh=emh1aG05ZzVzZWF4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parimi-varun-thej-342486372?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PARIMI VARUNTHEJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.varunthej@gmail.com) 
+<!-- 🛠️ TECH STACK -->
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varunthej-8630&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=varunthej-8630&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunthej-8630&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🛠️ Technical Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varunthej-8630&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,firebase,git,github,vscode" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=varunthej-8630&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 📊 STATS -->
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunthej-8630&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunthej-8630&theme=tokyonight" height="170"/>
+</p>
+
+
+<!-- 🚀 PROJECTS -->
+
+🚀 My Projects
+
+🔐 Core Systems
+
+🧠 <a href="https://github.com/varunthej-8630/Smart-Surveillance-System">Smart Surveillance System</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varunthej-8630&repo=Smart-Surveillance-System&theme=tokyonight" />
+</p>
+
+🖐️ <a href="https://github.com/varunthej-8630/AirMouse">AirMouse</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varunthej-8630&repo=AirMouse&theme=tokyonight" />
+</p>
+
+🧑‍🦽 <a href="https://github.com/varunthej-8630/Voice-Controlled-Smart-Wheelchair-">Voice Controlled Smart Wheelchair</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varunthej-8630&repo=Voice-Controlled-Smart-Wheelchair-&theme=tokyonight" />
+</p>
+
+🌀 <a href="https://github.com/varunthej-8630/shadow-jutsu">Shadow Jutsu</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varunthej-8630&repo=shadow-jutsu&theme=tokyonight" />
+</p>
+
+🪖 <a href="https://github.com/varunthej-8630/smarthelmet">Smart Helmet</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varunthej-8630&repo=smarthelmet&theme=tokyonight" />
+</p>
+
+👆 <a href="https://github.com/varunthej-8630/FingerBeam">FingerBeam</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=varunthej-8630&repo=FingerBeam&theme=tokyonight" />
+</p>
+
+
+🧠 Custos Ecosystem
+
+🧠 <a href="https://github.com/varunthej-8630/custos-AD">Custos AD</a>
+📦 <a href="https://github.com/varunthej-8630/custos">Custos Core</a>
+🔍 <a href="https://github.com/varunthej-8630/custos-digital-perimeter--p1">P1</a>
+⚙️ <a href="https://github.com/varunthej-8630/custos-digital-perimeter--p2">P2</a>
+🛰️ <a href="https://github.com/varunthej-8630/custos-digital-perimeter--p3">P3</a>
+🌐 <a href="https://github.com/varunthej-8630/Custos-Hub-website">Hub</a>
+👴 <a href="https://github.com/varunthej-8630/custos-eldercare-landingpage">Eldercare</a>
+📄 <a href="https://github.com/varunthej-8630/custos-landing_page-p1">Landing</a>
+
+
+
+🌐 Web & Platforms
+
+💼 <a href="https://github.com/varunthej-8630/freelancing-website">Freelancing Website</a>
+🌐 <a href="https://github.com/varunthej-8630/varun-port">Portfolio</a>
+🌱 <a href="https://github.com/varunthej-8630/ecotelecare">EcoTelecare</a>
+🤖 <a href="https://github.com/varunthej-8630/My-trainer">My-Trainer</a>
+
+
+<!-- ⚡ MINDSET -->
+
+⚡ Mindset
+
+🚀 Build → Learn → Improve → Repeat
+🔥 Consistency beats everything
+💡 Real impact comes from real projects
+
+
+<!-- 🌐 SOCIAL -->
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:p.varunthej@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="http://www.linkedin.com/in/varun-thej-32446372"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://wa.me/919392881913"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"></a>
+</p>
+
+
+<!-- 🐍 SNAKE -->
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/varunthej-8630/varunthej-8630/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+⭐ Thanks for visiting my profile!
