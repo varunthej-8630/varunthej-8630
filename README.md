@@ -1,27 +1,95 @@
-# 👋 Hi, I'm Varun
-
-🚀 AI | ML | Computer Vision | IoT Developer
-💡 Building real-world smart systems & future tech
-
----
-
-## 🛠️ Tech Stack
+<!-- ===================== SYSTEM BOOT ===================== -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,firebase,git,github,vscode" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=VARUN%20AI%20SYSTEM&fontSize=40&fontColor=00ffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+AI+System...;Initializing+Modules...;Computer+Vision+Loaded;IoT+Systems+Online;Custos+Core+Activated;Welcome+Commander" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 SYSTEM PROFILE
+
+```yaml
+Name: Varun thej 
+Role: AI Systems Engineer / Founder
+Organization: Custos (Smart Surveillance Ecosystem)
+Specialization:
+  - Computer Vision
+  - Embedded Systems
+  - IoT Architecture
+  - AI Automation
+Status: ACTIVE ⚡
+Mission: Build Intelligent Security Systems
+```
+
+⚙️ CORE MODULES
+
+💻 Programming Engine
+
+```bash
+Python   ████████████████████ 100%
+C/C++    ████████████████░░░░ 85%
+JS/TS    ███████████████░░░░░ 80%
+```
+
+🤖 AI / VISION SYSTEMS
+
+```bash
+OpenCV        ████████████████████
+YOLO          █████████████████░░
+MediaPipe     ████████████████░░░
+TensorFlow    ██████████████░░░░░
+```
+
+⚙️ EMBEDDED + IOT NETWORK
+
+```bash
+ESP8266       ████████████████████
+Arduino       ███████████████████░
+Raspberry Pi  ███████████████░░░░
+GSM Systems   ███████████████░░░░
+```
+
+🌐 INTERFACE SYSTEMS
+
+```bash
+React         ████████████████░░░
+Tailwind      ███████████████████
+Firebase      ███████████████░░░░
+Node          █████████████░░░░░░
+```
+
+---
+
+🧬 SYSTEM PHILOSOPHY
+
+```diff
++ Build Real Systems
++ Think Beyond Code
++ Hardware + AI = Future
++ Consistency > Motivation
+```
+
+---
+
+🌐 COMMUNICATION CHANNELS
+
+```yaml
+Email:    p.varunthej@gmail.com
+LinkedIn: linkedin.com/in/varun-thej-32446372
+WhatsApp: wa.me/919392881913
+```
+
+---
+
+📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunthej-8630&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunthej-8630&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunthej-8630&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunthej-8630&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -30,70 +98,81 @@
 
 ---
 
-## ⚡ Mindset
+🚀 DEPLOYED SYSTEMS
 
-🚀 Build → Learn → Improve → Repeat
-🔥 Consistency beats everything
-💡 Real impact comes from real projects
+🔐 CORE SECURITY MODULES
 
----
+```bash
+[ACTIVE] Smart Surveillance System
+→ Modular AI-powered surveillance network
 
-## 🌐 Connect With Me
+[ACTIVE] AirMouse
+→ Gesture-based OS control system
 
-📧 [Email](mailto:p.varunthej@gmail.com)
-💼 [LinkedIn](http://www.linkedin.com/in/varun-thej-32446372)
-📱 [WhatsApp](https://wa.me/919392881913)
+[ACTIVE] Smart Wheelchair
+→ Voice-controlled mobility platform
 
----
+[ACTIVE] Shadow Jutsu
+→ Real-time clone simulation (CV)
 
-## 🚀 My Projects
+[ACTIVE] Smart Helmet
+→ Safety + IoT integration
 
-### 🔐 Core Systems
-
-🛡️ 🔗 [Smart Surveillance System](https://github.com/varunthej-8630/Smart-Surveillance-System)
-
-🖐️ 🔗 [AirMouse](https://github.com/varunthej-8630/AirMouse)
-
-🧑‍🦽 🔗 [Voice Controlled Smart Wheelchair](https://github.com/varunthej-8630/Voice-Controlled-Smart-Wheelchair-)
-
-🌀 🔗 [Shadow Jutsu](https://github.com/varunthej-8630/shadow-jutsu)
-
-🪖 🔗 [Smart Helmet](https://github.com/varunthej-8630/smarthelmet)
-
-👆 🔗 [FingerBeam](https://github.com/varunthej-8630/FingerBeam)
+[ACTIVE] FingerBeam
+→ Gesture interaction engine
+```
 
 ---
 
-### 🧠 Custos Ecosystem
+🧠 CUSTOS ECOSYSTEM (FOUNDER MODE)
 
-🧠 🔗 [Custos AD](https://github.com/varunthej-8630/custos-AD)
-
-📦 🔗 [Custos Core](https://github.com/varunthej-8630/custos)
-
-🔍 🔗 [Custos Digital Perimeter P1](https://github.com/varunthej-8630/custos-digital-perimeter--p1)
-
-⚙️ 🔗 [Custos Digital Perimeter P2](https://github.com/varunthej-8630/custos-digital-perimeter--p2)
-
-🛰️ 🔗 [Custos Digital Perimeter P3](https://github.com/varunthej-8630/custos-digital-perimeter--p3)
-
-🌐 🔗 [Custos Hub Website](https://github.com/varunthej-8630/Custos-Hub-website)
-
-👴 🔗 [Custos Eldercare](https://github.com/varunthej-8630/custos-eldercare-landingpage)
-
-📄 🔗 [Custos Landing Page](https://github.com/varunthej-8630/custos-landing_page-p1)
+```bash
+Custos AD              → AI Detection Engine
+Custos Core            → Central Intelligence Unit
+Digital Perimeter P1   → Entry-level detection
+Digital Perimeter P2   → Smart tracking system
+Digital Perimeter P3   → Advanced AI perimeter
+Custos Hub             → Control interface
+Custos Eldercare       → Smart monitoring system
+```
 
 ---
 
-### 🌐 Web & Platforms
+🌍 PLATFORM SYSTEMS
 
-💼 🔗 [Freelancing Website](https://github.com/varunthej-8630/freelancing-website)
-
-🌍 🔗 [Varun Portfolio](https://github.com/varunthej-8630/varun-port)
-
-🌱 🔗 [EcoTelecare](https://github.com/varunthej-8630/ecotelecare)
-
-🤖 🔗 [My-Trainer](https://github.com/varunthej-8630/My-trainer)
+```bash
+Freelancing Platform → Service ecosystem
+Portfolio System     → Personal brand interface
+EcoTelecare          → Smart health monitoring
+My-Trainer           → AI training assistant
+```
 
 ---
 
-⭐ Thanks for visiting my profile!
+🧠 LIVE STATUS
+
+```diff
++ AI Modules        → ONLINE
++ Vision Systems   → TRACKING
++ IoT Network      → CONNECTED
++ Security Engine  → ACTIVE
+```
+
+---
+
+🧬 FINAL MESSAGE
+
+```bash
+> I don't build projects.
+> I build systems that think, react, and evolve.
+
+> Initializing Future...
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=footer" />
+</p>
+
+<!-- ===================== END SYSTEM ===================== -->
